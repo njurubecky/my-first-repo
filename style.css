@@ -1,0 +1,24 @@
+body {
+	height: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+body {
+	background-color: rgb(228, 238, 134);
+  }
+  
+h1{
+	background-color: rgb(175, 67, 67);
+}
+h2{
+	background-color: rgb(175, 67, 67);
+}
+h3{
+	background-color: rgb(175, 67, 67);
+}
+h4{
+	background-color: rgb(175, 41, 41);
+}
+p {
+	color: rgb(75, 204, 243);
+	text-align: center;
+}
